@@ -1,16 +1,9 @@
-# kranplaetze
+# Kranplätze
 
-Kranplätze Soundboard
+Do you remember this legendary video? https://www.youtube.com/watch?v=Ccll1mKk_3w
 
-## Getting Started
+If you answer is no, this repo is probably the wron place for you
 
-This project is a starting point for a Flutter application.
+This is the code of an instant button like app for sounds taken out of the video
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> More information are following in the future
